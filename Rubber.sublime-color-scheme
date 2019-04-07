@@ -36,6 +36,7 @@
     "background": "var(black)",
     "foreground": "var(foreground)",
     "caret": "var(bright_white)",
+    "block_caret": "color(var(bright_white) alpha(0.4))",
     "line_highlight": "var(bright_gray)",
     "selection": "var(bright_gray)",
     "inactive_selection": "var(gray)",
