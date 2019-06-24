@@ -3,8 +3,8 @@
   "author": "Heiker (https://github.com/VonHeikemen)",
   "variables": {
     // Constants
-    "foreground": "#DADFE1", // white
-    "comment": "#E08283",    // red
+    "foreground": "#D2D7D3", // white
+    "comment": "#FC8680",    // red
     "constant": "#DDA0DD",   // magenta
     "storage": "#89C4F4",    // blue
     "string": "#87D37C",     // green
@@ -14,13 +14,13 @@
     // Colors
     "green": "#87D37C",
     "magenta": "#DDA0DD",
-    "red": "#E08283",
+    "red": "#FC8680",
     "cyan": "#50C6D8",
     "yellow": "#F2CA27",
     "black": "#2F343F",
     "darkness": "#000",
     "light": "#FFF",
-    "bright_gray": "#3B4049",
+    "bright_gray": "#E3E4E71A",
     "bright_white": "#A9B2C3",
     "dark_blue": "#242830",
 
