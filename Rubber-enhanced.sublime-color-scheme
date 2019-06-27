@@ -3,7 +3,7 @@
   "author": "Heiker (https://github.com/VonHeikemen)",
   "variables": {
     // Constants
-    "foreground": "#D2D7D3", // white
+    "foreground": "#DCE0DD", // white
     "comment": "#FC8680",    // red
     "constant": "#DDA0DD",   // magenta
     "storage": "#89C4F4",    // blue
