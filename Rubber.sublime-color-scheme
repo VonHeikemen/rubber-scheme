@@ -18,6 +18,7 @@
     "cyan": "#56B6C2",
     "yellow": "#D19A66",
     "black": "#21252B",
+    "gray": "#8893A6",
     "darkness": "#000",
     "light": "#FFF",
     "bright_gray": "#3B4049",
@@ -39,7 +40,7 @@
     "block_caret": "color(var(bright_white) alpha(0.4))",
     "line_highlight": "var(bright_gray)",
     "selection": "var(bright_gray)",
-    "inactive_selection": "var(gray)",
+    "inactive_selection": "color(var(bright_gray) lightness(- 25%))",
     "find_highlight": "var(yellow)",
     "find_highlight_foreground": "var(darkness)"
   },
